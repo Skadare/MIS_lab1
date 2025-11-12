@@ -1,8 +1,6 @@
 # lab1
 
-<video src="video/lab.webm" controls width="600">
-  Your browser does not support the video tag.
-</video>
+[Watch the demo (WEBM)](video/lab.webm?raw=1)
 
 A new Flutter project.
 
